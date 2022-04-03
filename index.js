@@ -4,7 +4,7 @@
       <p id="ici">... paragraphe vide ...</p>
       </p>Une autre ligne html</p>
       <script>
-      document.getElementById("ici").innerHTML = "Bonjour de merde <em>Javascript</em>";
+      document.getElementById("ici").innerHTML = "Bonjour de martin <em>Javascript</em>";
       </script> 
    </body>
 </html>
